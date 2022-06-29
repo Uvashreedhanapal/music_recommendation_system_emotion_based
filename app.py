@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+pip install camera
+
+pip install pandastable
 # In[8]:
 
 
